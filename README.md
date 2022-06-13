@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊Statistics
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=MuskanGupta2702&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Bharati&nbsp;Panigrahi's&nbsp;GitHub&nbsp;Stats" />     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskanGupta2702&show_icons=true&locale=en&theme=vision-friendly-dark" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=MuskanGupta2702&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Muskan&nbsp;Gupta's&nbsp;GitHub&nbsp;Stats" />     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuskanGupta2702&show_icons=true&locale=en&theme=vision-friendly-dark" />
 
 
 ## 🔥Streaks
